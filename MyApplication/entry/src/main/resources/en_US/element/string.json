@@ -1,0 +1,100 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "input_pwd",
+      "value":  "please enter password"
+    },
+    {
+      "name": "set_pwd_success",
+      "value":  "set password success"
+    },
+    {
+      "name": "login_success",
+      "value":  "login success"
+    },
+    {
+      "name": "login_fail",
+      "value":  "user name or password is wrong!"
+    },
+    {
+      "name": "welcome_login",
+      "value": "welcome to login"
+    },
+
+
+    {
+      "name": "login",
+      "value": "Login"
+    },
+    {
+      "name": "advertising_text_title",
+      "value": "jump %ds"
+    },
+    {
+      "name": "time",
+      "value": "Tiem:"
+    },
+    {
+      "name": "title",
+      "value": "Title:"
+    },
+    {
+      "name": "content",
+      "value": "Content:"
+    },
+    {
+      "name": "input_content",
+      "value": "please enter content"
+    },
+    {
+      "name": "input_title",
+      "value": "please enter title"
+    },
+    {
+      "name": "save",
+      "value": "SAVE"
+    },
+    {
+      "name": "notice",
+      "value": "Notice"
+    },
+    {
+      "name": "save_success",
+      "value": "save success"
+    },
+    {
+      "name": "is_save",
+      "value": "is save now?"
+    },
+    {
+      "name": "my_dariy",
+      "value": "my diary"
+    },
+    {
+      "name": "add_dariy",
+      "value": "add diary"
+    },
+    {
+      "name": "set_pwd",
+      "value": "please set login password"
+    },{
+      "name": "ok",
+      "value": "OK"
+    }, {
+      "name": "cancel",
+      "value": "Cancel"
+    }
+  ]
+}

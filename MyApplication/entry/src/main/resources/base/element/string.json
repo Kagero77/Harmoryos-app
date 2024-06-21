@@ -1,0 +1,98 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "鸿蒙应用"
+    },
+    {
+      "name": "input_pwd",
+      "value": "请输入密码"
+    },
+    {
+      "name": "set_pwd_success",
+      "value": "设置密码成功"
+    },
+    {
+      "name": "login_success",
+      "value": "设置密码成功"
+    },
+    {
+      "name": "login_fail",
+      "value": "用户名密码错误"
+    },
+    {
+      "name": "welcome_login",
+      "value": "欢迎登录"
+    },
+    {
+      "name": "login",
+      "value": "登录"
+    },
+    {
+      "name": "advertising_text_title",
+      "value": "跳过广告 %ds"
+    },
+    {
+      "name": "time",
+      "value": "时间"
+    },
+    {
+      "name": "title",
+      "value": "标题"
+    },
+    {
+      "name": "content",
+      "value": "内容"
+    },
+    {
+      "name": "input_content",
+      "value": "请输入内容"
+    },
+    {
+      "name": "input_title",
+      "value": "请输入标题"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "notice",
+      "value": "提示"
+    },
+    {
+      "name": "is_save",
+      "value": "是否保存?"
+    },
+    {
+      "name": "my_dariy",
+      "value": "我的日记"
+    },
+    {
+      "name": "add_dariy",
+      "value": "保存日记"
+    },
+    {
+      "name": "save_success",
+      "value": "保存成功"
+    },
+    {
+      "name": "set_pwd",
+      "value": "请设置登陆密码"
+    }, {
+      "name": "ok",
+      "value": "确定"
+    }, {
+      "name": "cancel",
+      "value": "取消"
+    }
+  ]
+}

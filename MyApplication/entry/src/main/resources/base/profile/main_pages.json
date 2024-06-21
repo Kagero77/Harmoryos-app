@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/splash/AdvertisingPage",
+    "pages/login/LoginPage",
+    "pages/diary/DiaryListPage",
+    "pages/diary/DiaryAddPage"
+  ]
+}
